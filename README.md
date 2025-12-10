@@ -1,4 +1,4 @@
-📧 Spam Email Classifier
+# Spam Email Classifier
 
 A machine learning project that detects and filters spam emails using Naive Bayes and Support Vector Machines (SVM).
 The model is trained using TF-IDF vectorization on email text and achieves high accuracy in identifying spam vs. non-spam messages.
